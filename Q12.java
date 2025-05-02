@@ -2,7 +2,7 @@ public class Q12{
 	public static void main(String[] args){
 		check(7);
 		check(20);
-		check(-9);
+		check(-8);
 	}
 	
 	public static void check(int a){
